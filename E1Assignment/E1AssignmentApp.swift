@@ -1,10 +1,3 @@
-//
-//  E1AssignmentApp.swift
-//  E1Assignment
-//
-//  Created by Naveen Anandhan on 26/02/2024.
-//
-
 import SwiftUI
 
 @main

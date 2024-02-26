@@ -14,6 +14,7 @@
 		5D5EF5D62B8C74A000DECC61 /* E1AssignmentTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D5EF5D52B8C74A000DECC61 /* E1AssignmentTests.swift */; };
 		5D5EF5E02B8C74A000DECC61 /* E1AssignmentUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D5EF5DF2B8C74A000DECC61 /* E1AssignmentUITests.swift */; };
 		5D5EF5E22B8C74A000DECC61 /* E1AssignmentUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D5EF5E12B8C74A000DECC61 /* E1AssignmentUITestsLaunchTests.swift */; };
+		5D5EF5EF2B8C74FE00DECC61 /* Content-ViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D5EF5EE2B8C74FE00DECC61 /* Content-ViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		5D5EF5DB2B8C74A000DECC61 /* E1AssignmentUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = E1AssignmentUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5D5EF5DF2B8C74A000DECC61 /* E1AssignmentUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = E1AssignmentUITests.swift; sourceTree = "<group>"; };
 		5D5EF5E12B8C74A000DECC61 /* E1AssignmentUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = E1AssignmentUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		5D5EF5EE2B8C74FE00DECC61 /* Content-ViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Content-ViewModel.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				5D5EF5C72B8C74A000DECC61 /* Assets.xcassets */,
 				5D5EF5C92B8C74A000DECC61 /* E1Assignment.entitlements */,
 				5D5EF5CA2B8C74A000DECC61 /* Preview Content */,
+				5D5EF5EE2B8C74FE00DECC61 /* Content-ViewModel.swift */,
 			);
 			path = E1Assignment;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 			files = (
 				5D5EF5C62B8C749E00DECC61 /* ContentView.swift in Sources */,
 				5D5EF5C42B8C749E00DECC61 /* E1AssignmentApp.swift in Sources */,
+				5D5EF5EF2B8C74FE00DECC61 /* Content-ViewModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
